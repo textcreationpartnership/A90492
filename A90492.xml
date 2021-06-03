@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect remonstrance and narrative of all the proceedings of the right honourable Robert Earl of Warwick, Lord High Admirall of England, in his late expedition with the Parliaments navy, in order to the reducing of the revolted ships, commanded by his Highnesse, Charles Prince of Wales. Containing, the great and victorious atchivements [sic], of the said Lord Admirall against Prince Rupert, and the navy: the number of ships taken, and a discovery of their great and bloudy design against this kingdom. Being an exact journall, and full relation of each dayes proceedings, since the first setting forth of the Parliaments fleet against the revolted ships. From the 29. of August, to the 25. of December, 1648.</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90492</idno><idno type="EEBO-CITATION">50805870</idno>
+  <idno type="VID">164564</idno>
+  <idno type="EEBO-PROQUEST">2248532209</idno>
+  
+            <idno type="STC">Wing P1523</idno>
+            <idno type="STC">Thomason E526_43</idno>
+            <idno type="OCLC">50805870</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90492)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164564)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 82:E526[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect remonstrance and narrative of all the proceedings of the right honourable Robert Earl of Warwick, Lord High Admirall of England, in his late expedition with the Parliaments navy, in order to the reducing of the revolted ships, commanded by his Highnesse, Charles Prince of Wales. Containing, the great and victorious atchivements [sic], of the said Lord Admirall against Prince Rupert, and the navy: the number of ships taken, and a discovery of their great and bloudy design against this kingdom. Being an exact journall, and full relation of each dayes proceedings, since the first setting forth of the Parliaments fleet against the revolted ships. From the 29. of August, to the 25. of December, 1648.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Crips in Popes-head Alley,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Dudley, Robert, --  Sir, 1574-1649.</term>
+               <term type="personal_name">Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164564:1"/>
+            <p>A PERFECT REMONSTRANCE and NARRATIVE OF ALL The Proceedings of the Right Honourable</p>
+            <p>
+               <hi>Robert</hi> Earl of <hi>Warwick,</hi> Lord High Admirall of <hi>England,</hi> in his late Ex<g ref="char:EOLhyphen"/>pedition with the Parliaments Navy, in order to the reducing of the R<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>volted Ships, Commanded by his Highnesse, <hi>Charles</hi> Prince of <hi>Wales.</hi>
+            </p>
+            <p>CONTAINING, The great and Victorious Atchivements, of the said Lord Admirall against Prince <hi>Rupert,</hi> and the Navy: the number of Ships taken, and a discovery of their great and bloudy Design against this Kingdom.</p>
+            <p>BEING An exact Journall, and full Relation of each dayes proceedings, since the first set<g ref="char:EOLhyphen"/>ting forth of the Parliaments Fleet against the Revolted Ships.</p>
+            <p>
+               <hi>From the 29. of</hi> August, <hi>to the 25. of</hi> December, 1648.</p>
+            <figure>
+               <figDesc>naval battle</figDesc>
+            </figure>
+            <p>
+               <hi>Printed for</hi> Henry Crips <hi>in</hi> Popes-head-Alley.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb n="2" facs="tcp:164564:2"/>
+            <head>A Narrative of the Proceedings of the Right Ho<g ref="char:EOLhyphen"/>nourable, the Earle of <hi>Warwicke,</hi> Lord high Admirall of <hi>England,</hi> in his late Expedition, in order to the Reducing of the Revolted Ships.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He first day of the appearance of ours, and the Kingdomes Ad<g ref="char:EOLhyphen"/>versaries, who were in number, 18. great and small, was on <hi>Tuesday,</hi> the 29 of <hi>August,</hi> in the afternoon, which invited us with all cheefulnesse forthwith to fit our ships to engage with them, we being in number 12. great and small, but night so suddenly attending, could not approach to the convenient distance of Engagement. The next day being the day of Publike Fast, our adverse Admirall, in which was Prince <hi>Charles,</hi> at tyde, weighs with all his Fleet, and plyed up towards us, which Motion invited us to weigh also▪ endeavouring to get the wheather gage of them, and withall to drawing them further up the Ri<g ref="char:EOLhyphen"/>ver, that so we might have the more roome and lesse danger to engage in; our Adversaries plyed hard to coast up with us, being in the hea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of their rage, not doubting, but they should soone have carried us with<g ref="char:EOLhyphen"/>out little or no engagement, they supposing that our men had been<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as treacherous as themselves, in betraying the trust reposed in them; but to the contrary they found; they expecting some of our Ships to have come to them. But for the honour of the men in the Lord Admiralls Fleet, I speak it, that although our Adversaries appeared farre greater in number and strength then we, yet did it not at all weaken their courage and resolutions, insomuch that I dare challenge any to parallel men that were ever seene more desirous to be engaged: which, doubtlesse, as it was to our Adversaries non-expectation; so, indeed, was it to our owne admiration, in regard the Major part of them were prest men, and enga<g ref="char:EOLhyphen"/>ged by us on this Designe, from their more gainfull Voyages; yet with great courage, cheerefulnesse, and desire of speedy action did they ap<g ref="char:EOLhyphen"/>peare, Crying out, <hi>Let us Fire, Fire.</hi>
+            </p>
+            <p>The <hi>Vice-Admirall</hi> of our Fleet, whose Valour and Courage I was spe<g ref="char:EOLhyphen"/>ctato<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of, which deserves to be had in memoriall, who being nigh our Ad<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rs <hi>Vice Admirall,</hi> was not a little discontented, in regard he cold no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Engage, It being before ordered, that our Adversaries should first begin, which they seemed suddenly to effect: But it pleased God, in
+<pb n="3" facs="tcp:164564:2"/> the very moment of our engaging, to send a storme of winde at <hi>North West,</hi> which immediatly forced both us and our Adversaries to Anker, even nigh within shot of each other, our men seeming discontented, that they had not an opportunity of engagement; which, I am perswaded, had not God, for reasons best known to his heavenly Wisdome, preven<g ref="char:EOLhyphen"/>ted, even by this sudden storm, it had been a very bloody day, we being assured, that God was engaged with us, and that he would appeare by Sea, even by few, as he had done by Land, and gaine himselfe glory in the ruine of his and our Kingdomes enemies.</p>
+            <p>The next day being <hi>Thursday,</hi> the storm being abated, our Adversa<g ref="char:EOLhyphen"/>ries at Tide weighed, which we likewise did, the weather promising fair, and our men heightned in Courage, expected a sudden engagement, but contrary to our expectations, our Adversaries, after Loose, bore away to the <hi>Noreward,</hi> with his wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thy Attendants after him; which a<g ref="char:EOLhyphen"/>nimated our men to follow after them, and force us to an engagement, we bearing after them, but night so nigh approching, prevented our mens desires, in the close of which Evening, our Adversaries espied our <hi>Porsmouth</hi> Fleet, though we not, and thereupon resolved to act with such subtilties, as to Wave engaging, in their seeming to us to Anker the said Evening, but did drive away with the Tide till it grew darke, and then they bore away, comming through part of our <hi>Portsmouth</hi> Fleet, Calling to some of them, Weigh, and to follow the Admirall, which they said, was the Earle of <hi>Warwick,</hi> but notwithstanding their treache<g ref="char:EOLhyphen"/>rous baite, our <hi>Portsmouth</hi> Fleet soon discerned them to be what they were, we lying at Anker the said night.</p>
+            <p>The next day, contrary to our expectations, our adversaries were de<g ref="char:EOLhyphen"/>parted, which induced us with all speed to a pursuite; we Weighing, and soone after came up with our said <hi>Porsmouth</hi> Fleet, in number nine, who also by order Weighed, we steering away together for <hi>Haverford West,</hi> supposing that our Adversaries were gone that way; nigh unto which place, we had intelligence that they were gone for <hi>Holland,</hi> which cau<g ref="char:EOLhyphen"/>sed us at convenient time, to depart for the <hi>Downs,</hi> &amp; there went ashoar, where we were spect<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tors of the Ruine in part, which our said Adver<g ref="char:EOLhyphen"/>saries had made by land in the Towne of <hi>Deale,</hi> and Castles adjacent. The Lord <hi>Admirall</hi> Riding there about 14 daies, in which time, he sent
+<pb n="4" facs="tcp:164564:3"/> out some Frigots, and putting the said Castles into a posture of defence, which when effected with the advice of his Councell; winds permit<g ref="char:EOLhyphen"/>ting, departed for <hi>Holland,</hi> and after 2. dayes sale, arived in <hi>Goree</hi> withall his Fleete, in number 22. great and small, all anchoring nigh to <hi>Goree,</hi> the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ide of flood being spent, and in distance from our adversaries 3. miles riding before <hi>Helf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord</hi> Sluce, which Evening the Lord Admirall sent a Message aboard them, Demanding the Ships for the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and tendering indemnity to the Marrine<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s. But Captain <hi>Batten,</hi> an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Captain <hi>Iordan,</hi> with others of the grand Agents in the said Ships re<g ref="char:EOLhyphen"/>volt, one of which deserves to be branded for his perfideousnes, and his unworthy requitall of the Parliament, who raised him to his Estate and Honour, being aboard the Admirall of the said Revolted ships; returned as to answer, that the Prince was at the <hi>Hague,</hi> whom they would forth<g ref="char:EOLhyphen"/>with acquaint thereof, whom having notice thereof, returned Answer, that he detested the surrender of the ships, declaring that he would keep them for his Father.</p>
+            <p>And now before I proceed in the further Relation of our Proceedings, I shall crave leave to speak a few words in the vindication of the Right Honourable, the Earl of <hi>Warwick,</hi> Lord High Admirall of <hi>England,</hi> a<g ref="char:EOLhyphen"/>gainst those Green headed Seamen, or ignorant Land-men, who say that if he wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h his said F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eete had gone up to the Revolted ships at our first coming in, he had effected the work to which he was called, I will no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> say, but peradventure we might have reduced some part of them▪</p>
+            <p>But give me leave to tell you that it was no wisdom to go up before we had notice in what posture they were, or whether they had planted Guns on the showre, which they did at the first sight of us, and imme<g ref="char:EOLhyphen"/>diately put the Ships into a posture of defence; but grant that we had run rashly up and clapt them abroad, doubtles some of the most desperate would either have cut their Cables, and so have forced <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s both a shore, or else have blowen up both themselves and us, it being ordered by the Councel of War, not thought fit to ingage, so that I conclude, and doubt no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the most experie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ced Seamens consent, that it was a great peece of wisdom in the Lord Admirall in attaining as he did, he having such a respect to his Fleete, as of that concernment, on which depends the pre<g ref="char:EOLhyphen"/>servation
+<pb facs="tcp:164564:3"/> and safety of our Kingdom, whom also at all Councels of War was ready &amp; willing to harken to the advice of his Captains under him, in all their proposals which seemed to tend to the effecting of that work to which he was called.</p>
+            <p>And as in this he unblameably, acted so by the way, I must not o<g ref="char:EOLhyphen"/>mit that gallant act of his which cut of respect to our Kingdoms peace, he engaged in his coming down in a small Vessel, the <hi>Nicodemus</hi> into the Downs aboard the ships, seem after their Revolt thereby, exposing him<g ref="char:EOLhyphen"/>self to the rage and furie of a desperate party, even in their greatest heate, which I presume few or none other of the Nobility of our Land would have undertook the like: the which honourable service of his, deserves to be recorded to future Ages.</p>
+            <p>And at his b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing in <hi>Holland</hi> retired aboard, being excluded from those wonted delights and pleasures which he frequently did injoy in our own Kingdom, in respect to the good of which, he had thus sequestred him<g ref="char:EOLhyphen"/>self, he unweariedly resided aboard, finding little or none respect in <hi>Holland.</hi>
+            </p>
+            <p>And now to proceed in order to our ensuing proceedings, soon af<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er our arivall in <hi>Holland;</hi> some of the States came aboard his Lordship, ac<g ref="char:EOLhyphen"/>quainting his Honour that it was their desires that no acts of hostillity might be committed in their part betwixt us and our adversaries. And to that purpose, would send some ships of theirs, the better to maintain peace. At whose departure the Lord Admirall fired 21. Guns, and soon after came in at severall times, to the number of 16. <hi>Dutch</hi> ships, which forthwith invited <hi>Van Trump</hi> their Admirall, whom came aboard his appointed ship, and tide presenting came down and ankered with all his fleete mid way betwixt us and our Adversaries, whom declared that they which first began to ingage, he would ingage against; whereupon the Lord Admirall being tender of acting, so as to make a breach betwixt <hi>Holland</hi> and us in these our distracted times, patiently wayted; hoping that some sh<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ps of our adversaries would have come in to us, and return to their true obedience; but for the space of 7. weeks no ships, onely some men came to us. But so soon as we had information that p. <hi>Rupert</hi> was appointed Admirall, which caused <hi>Batten,</hi> and <hi>Jordan</hi> to dissert them, &amp; discouraged divers of the Gentry; we were in some good hopes to effect
+<pb n="6" facs="tcp:164564:4"/> the work to which we were designed, supposing that all <hi>English</hi> spirits that had respect either to their own good or Kingdoms welfare, would have detested the Command of him, whose name is inrolled for the grand actor of all murther, rapine, cruelty, and mischief, committed by him lately in our Kingdom of <hi>England;</hi> and indeed who hath no other Caracter but the bloudy Butcher of <hi>England,</hi> in whom may the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England</hi> behold the fruits of their Clemency, to such guilty un<g ref="char:EOLhyphen"/>worthy perso<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; but contrary to our expectations this grand enemy of our Kingdoms, prevailed with the Se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>men in giving them their full sway and content in all manner of Vices whatsoever, though of money very little I confesse, a worthy inducement to engage men in opposition unto, and ruine and disturbance of their own Kingdom, the peace of which they as Subjects thereof are ingaged to maintain; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd remarkable it was, on the 5. of <hi>November,</hi> the fatall day of ruine for such traytors to their Kingdom: the Vessell of which they most bo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and appointed as the Father thief for their Fleete, in regard she sales so well; namely, the <hi>Con<g ref="char:EOLhyphen"/>stant Warwick,</hi> having 32. Guns, disserted them and came to us, which occasioned our going up the next day nigh unto our Adversaries, the fruit of which was seen.</p>
+            <p>The next Ev<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ning by another Vessel, which said night deserted them, and came likewise to us; namely the <hi>Hine</hi> Frigot, having 18. Guns which put us into such good hopes of regaining the rest, that the next day at <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ide we weighed and went up even amongst them, our adversaries with the <hi>Flemings,</hi> at which they likewise weighed, our Adversaries endea<g ref="char:EOLhyphen"/>vouring with all speed to get into the Sluce, and although Prince <hi>Rupert</hi> at our fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st weighing, vapored and threw out divers of his new invented Oaths that he would fire at us, which I could wish he had effected, and no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> so quickly to run his head into a hole for security▪ which s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id tide they got part of their ships in, and nigh about the said Sluce, the rest ri<g ref="char:EOLhyphen"/>ding among us, having not time to follow their Leader:. At which our men were mightily enraged partly to see their Kingdoms Ships hale in<g ref="char:EOLhyphen"/>to such a hole, which as is supposed hath broke some of their backs, and also in that we could not engage with them without breach of peace be<g ref="char:EOLhyphen"/>twixt <hi>Holland</hi> and us, so notwithstanding of the Commanders of our Fleete having much adoe to keepe their men from being in action a<g ref="char:EOLhyphen"/>gainst
+<pb n="7" facs="tcp:164564:4"/> them, which were riding among us the next day, we without much opposition secured the love and gained satisfaction, although we could not attain the <hi>Constant Reformation▪</hi> which with the <hi>Antilope, Con<g ref="char:EOLhyphen"/>vertine, Swallow, Roebuck, Ginnies</hi> Frigot, &amp; <hi>Blackmore Lady,</hi> are in the said Sluce, a worthy pack together, who imploy themselves in inventing new Oaths and disturbance to their Kingdom. Insomuch, that some who are come from them say; that surely, if hell be in earth, it is there, &amp; if the Revolted ships and hell were apart, they would rather go into hell then return to them again; some of them having hastened themselves to the Devil that first set them on this work, even by their excessive dri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k<g ref="char:EOLhyphen"/>ing of strong waters: a just judgment of God for that horrible and de<g ref="char:EOLhyphen"/>testable Act, in betraying the trust reposed in them.</p>
+            <p>And now <hi>Trinitarians,</hi> behold and see what a blessed Crew you have stood up for, justified and maintained, the reducing of whom might soon after their Revolt been effected, had not you so publikely declared for them, and abstracted all proceedings that were in agitation towards their reducement, in order to which, had you only stood but as neuters, and not countenanced them, and discountenanced those that appeared to engage for their reducement.</p>
+            <p>The Lord Admiralls Fleet had long before it was Creend forth, and questionles effected the work, which had no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, only saved the Kingdom much expence of money, which already it hath cost in order to their re<g ref="char:EOLhyphen"/>ducement; but also preserved many Merchants goods and ships: by means of which, have been exposed to the bloudy <hi>Irish.</hi> And withall, had not the Lord Admiral prevented our adversaries from coming forth, which he did by his riding there in <hi>Goree,</hi> whose Design was for <hi>Ireland</hi> to joyn with the <hi>Irish</hi> in robberies and murders. What further losses our Kingdom in generall by obstruction of Trades and Merchants; in parti<g ref="char:EOLhyphen"/>cular, by losse of goods and ships, would have sustained, I leave any rati<g ref="char:EOLhyphen"/>onall man to judge: so that although we could not wholly effect our den<g ref="char:EOLhyphen"/>red purpose, yet I doubt no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, all judicious men do look on our preventi<g ref="char:EOLhyphen"/>on of their coming forth as of no small concernment to our Kingdom. The Lord Admirall waighted nigh 12. dayes after, in which time he dis<g ref="char:EOLhyphen"/>patcht some Frigots for the Westward, for the more security of Trade a &amp; Merchants Goods. He staying himself with the rest of his Fleete, untill
+<pb n="8" facs="tcp:164564:5"/> the I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e began to threaten us, which caused us to embrace our opportuni<g ref="char:EOLhyphen"/>ty. We departing the 21 of <hi>Novem.</hi> we arrived in the <hi>Downes</hi> the 23. From whence the L. <hi>Admirall</hi> dispatcht more Frigors to the <hi>Westward,</hi> and forthwith acquainted the <hi>Parliament</hi> of his Lordship being here, who suddenly returned to his <hi>Honour</hi> in particular, and to the Captaines and Marriners under him in generall, a Letter of thanks, for our good service which we had done, in order to the Reducing of the Revolted Ships, which work, although but in part effected, yet such is their re<g ref="char:EOLhyphen"/>spect to Seamen, that they have ordered those that engaged in this ser<g ref="char:EOLhyphen"/>vice, the gratuity which was promised for the whole, vvhich, I hope, hereafter will engage them all, who either have respect to their own, or Kingdoms good, in all faithfull obedience, and never to desert the trust vvhich shall be reposed to them, and so be rendred as Traitors to their Kingdom, seeing they cannot but dissert, as some of them have confest, the immeadiate hand of God appearing both by Sea and Land, against such vvho act to the disturbance of the Kingdoms Peace, and I doubt no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but God in his due time vvill enlighten the eyes of us Sea▪ men, vvho in a great measure behold visible appearances of God, that vve at last may vvith our fellow Subjects by Land, vvithout respect of particular gaine, or losse of lives, voluntarily engage for the perservation of our Kingdom, Religion, Lawes, and Liberties, vvhich are inevitably struck a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by our Adversaries both by Sea and Land, although coloured over vvith faire pretences, vvhen indeed, none can prosecute more dangerous ententions. But I hope, my fellow Sea-men, ere it be too late, vvill see how they have been misl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and regain their honour by a totall dissertion of their king<g ref="char:EOLhyphen"/>doms Enemies, and hereafter vvill be able to discern thei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Friends from theirs &amp; the Kingdoms Fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, against which there are apparent evidence of Gods opposing them; I hoping for the time ensuing, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vvil be indu<g ref="char:EOLhyphen"/>ced to the utter detestation of the one, &amp; love to the other, in all ready en<g ref="char:EOLhyphen"/>gaging for them, vvho have sequestred themselves for the effecting of the publike good, so may you rest assured of their Countenancing you, and so confidently may expect, as you have found by experience the hand of God engaged for you, and his presence still accompaning of you <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the perfecting of his great work, which happy a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e you in that he hath honoured, as Instruments to eff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct.</p>
+            <closer>
+               <dateline>Downes <date>this 28th. of Decemb. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
